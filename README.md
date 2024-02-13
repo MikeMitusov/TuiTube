@@ -13,3 +13,8 @@ If you are minimalist then this youtube client with textual interface is for you
 subscriptions = ['@channelone', '@channeltwo']
 ```
 - [ ] Add `SearchSubscriptions` class: which will search videos by subscriptions
+
+## Installing
+1. You need [Pyhon3.X](https://www.python.org/downloads/) installed
+2. Clone repository: `git clone https://github.com/MikeMitusov/TuiTube.git ~/TuiTube`
+3. Install requirements: `pip install -r requirements`
