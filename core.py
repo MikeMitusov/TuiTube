@@ -53,6 +53,7 @@ class Searcher:
             )
 
 
-a = Searcher("Рецепт пельменей")
-for i in a.get_video_info():
-    print(i)
+if __name__ == "__main__":
+    a = Searcher("Рецепт пельменей")
+    for i in a.get_video_info():
+        print(i)
