@@ -17,4 +17,5 @@ subscriptions = ['@channelone', '@channeltwo']
 ## Installing
 1. You need [Pyhon3.X](https://www.python.org/downloads/) installed
 2. Clone repository: `git clone https://github.com/MikeMitusov/TuiTube.git ~/TuiTube`
-3. Install requirements: `pip install -r requirements`
+3. Go to repository directory: `cd ~/TuiTube`
+4. Install requirements: `pip install -r requirements`
