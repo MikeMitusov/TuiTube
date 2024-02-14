@@ -19,3 +19,4 @@ subscriptions = ['@channelone', '@channeltwo']
 2. Clone repository: `git clone https://github.com/MikeMitusov/TuiTube.git ~/TuiTube`
 3. Go to repository directory: `cd ~/TuiTube`
 4. Install requirements: `pip install -r requirements`
+5. Add support for Android Termux
