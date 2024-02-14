@@ -10,9 +10,9 @@ If you are minimalist then this youtube client with textual interface is for you
 # In settings.py
 ...
 
-subscriptions = ['@channelone', '@channeltwo']
+subscriptions = ['https://current_server/link_to_channel', 'https://current_server/link_to_channel']
 ```
-- [ ] Add `SearchSubscriptions` class: which will search videos by subscriptions
+- [ ] Add Search by subscribers method (Searcher)
 - [ ] Add support for Android Termux
 
 ## Installing
