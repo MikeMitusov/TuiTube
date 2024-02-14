@@ -5,13 +5,6 @@ If you are minimalist then this youtube client with textual interface is for you
 
 ## Contributing goals (Short term)
 - [ ] Write TUI interface with `curses` python libary, TUI will be inspired by [ranger](https://github.com/ranger/ranger)
-- [ ] Add subscriptions, list of subscriptions will store in `settings.py`, example:
-```python
-# In settings.py
-...
-
-subscriptions = ['https://current_server/link_to_channel', 'https://current_server/link_to_channel']
-```
 - [ ] Add Search by subscribers method (Searcher)
 - [ ] Add support for Android Termux
 
